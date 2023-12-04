@@ -8,8 +8,8 @@ import Loader from 'react-loaders';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = ['l', 'o', 'b', 'o', 'd', 'a', 'n']
-    const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
+    const nameArray = [' ','J','o','s','h','u','a']
+    const jobArray = ['f','u','l','l','-','s','t','a','c','k', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
 
     useEffect(() => {
         setTimeout(() => {
@@ -23,23 +23,23 @@ const Home = () => {
             <div className="text-zone">
                 <h1>
                 <span className={letterClass}>H</span>
-                <span className={`${letterClass} _12`}>i,</span>
+                <span className={`${letterClass} _11`}>i,</span>
                 <br />
-                <span className={`${letterClass} _13`}>I</span>
-                <span className={`${letterClass} _14`}>'m</span>
-                <img src={LogoTitle} alt="developer"/>
+                <span className={`${letterClass} _12`}>I</span>
+                <span className={`${letterClass} _13`}>'m</span>
+                {/* <img src={LogoTitle} alt="developer"/> */}
                 <AnimatedLetters letterClass={letterClass}
                 strArray={nameArray}
-                idx={15}/>
+                idx={14}/>
                 <br />
                 <AnimatedLetters letterClass={letterClass}
                 strArray={jobArray}
-                idx={22}/>
+                idx={20}/>
                 </h1>
-                <h2>Frontend Developer / JavaScript </h2>
+                <h2>Full-stack developer / JavaScript </h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
-            <Logo />
+            {/* <Logo /> */}
         </div>
         <Loader type='pacman' />
         </>

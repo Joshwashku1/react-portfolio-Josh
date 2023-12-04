@@ -10,17 +10,32 @@
     .logo {
         display: block;
         padding: 8px 0;
-    
+        
         img{
             display: block;
-            margin: 8px auto;
+            margin: 5px auto;
             width: 24px;
             height: auto;
-
-            &.sub-logo {
+            border-radius: 50%;
+            
+            &.profile{
                 width: 50px;
+                height: 40px;
             }
         }
+
+        h3{
+            display: block;
+            color: #fff;
+            width: 10px;
+            height: auto;
+            text-align: right;
+
+            &:hover{
+                color: #ffd700;
+            }
+        }
+
     }
 
     nav {
