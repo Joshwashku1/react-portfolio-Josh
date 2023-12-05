@@ -1,0 +1,47 @@
+.github-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 20px;
+    padding: 20px;
+    flex: 1;
+    width: 300px;
+    top: 0;
+    bottom: 0;
+    left: 70%;
+    margin: auto;
+    right: 15%;
+    position: absolute;
+    text-align: center;
+
+    .container-name{
+        color: #fff;
+        font-size: large;
+    }
+    
+    
+    .container-card{
+        /* flexes width */
+        flex-basis: auto;
+        background-color: antiquewhite;
+        border-style: double;
+        border-color: #ffd700;
+        border-radius: 5%;
+        cursor: pointer;
+    }
+
+    p{
+        color: #115173;
+        font-size: medium;
+        text-align: center;
+    }
+
+    a{
+        color: cadetblue;
+
+        &:hover{
+            color: #ffd700;
+        }
+    }
+}

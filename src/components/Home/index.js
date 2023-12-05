@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo';
 import Loader from 'react-loaders';
+import GitHubContainer from './GitHubContainer';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -40,6 +41,7 @@ const Home = () => {
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             {/* <Logo /> */}
+            <GitHubContainer/>
         </div>
         <Loader type='pacman' />
         </>
