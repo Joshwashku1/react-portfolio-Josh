@@ -9,10 +9,10 @@ function App() {
   return (
     <>
     <Routes>
-      <Route exact path={`${process.env.PUBLIC_URL}/`} element={<Layout />}>
+      <Route exact path='/'element={<Layout />}>
         <Route index element={<Home />} />
-        <Route path={`${process.env.PUBLIC_URL}/about`} element={<About />} />
-        <Route path={`${process.env.PUBLIC_URL}/contact`}element={<Contact />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/contact' element={<Contact />} />
       </Route>
     </Routes>
     </>
