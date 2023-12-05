@@ -11,7 +11,7 @@ function App() {
     <Routes>
       <Route path={`${process.env.PUBLIC_URL}/`} element={<Layout />}>
         <Route index element={<Home />} />
-        <Route path={`https://${process.env.PUBLIC_URL}/about`} element={<About />} />
+        <Route path={`${process.env.PUBLIC_URL}/about`} element={<About />} />
         <Route path={`${process.env.PUBLIC_URL}/contact`}element={<Contact />} />
       </Route>
     </Routes>
