@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-Josh/home/static/css/main.020d6d74.css",
-    "main.js": "/react-portfolio-Josh/home/static/js/main.a16ebb65.js",
-    "static/js/787.cf482a7c.chunk.js": "/react-portfolio-Josh/home/static/js/787.cf482a7c.chunk.js",
-    "static/media/203.jpeg": "/react-portfolio-Josh/home/static/media/203.4fae893517d3b2d28280.jpeg",
-    "static/media/helvetica-neu.ttf": "/react-portfolio-Josh/home/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/react-portfolio-Josh/home/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/react-portfolio-Josh/home/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/react-portfolio-Josh/home/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio-Josh/home/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/react-portfolio-Josh/home/index.html",
-    "main.020d6d74.css.map": "/react-portfolio-Josh/home/static/css/main.020d6d74.css.map",
-    "main.a16ebb65.js.map": "/react-portfolio-Josh/home/static/js/main.a16ebb65.js.map",
-    "787.cf482a7c.chunk.js.map": "/react-portfolio-Josh/home/static/js/787.cf482a7c.chunk.js.map"
+    "main.css": "/react-portfolio-Josh/static/css/main.f7ffd9f4.css",
+    "main.js": "/react-portfolio-Josh/static/js/main.fe49cad7.js",
+    "static/js/787.cf482a7c.chunk.js": "/react-portfolio-Josh/static/js/787.cf482a7c.chunk.js",
+    "static/media/203.jpeg": "/react-portfolio-Josh/static/media/203.4fae893517d3b2d28280.jpeg",
+    "static/media/helvetica-neu.ttf": "/react-portfolio-Josh/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/react-portfolio-Josh/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio-Josh/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/react-portfolio-Josh/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio-Josh/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio-Josh/index.html",
+    "main.f7ffd9f4.css.map": "/react-portfolio-Josh/static/css/main.f7ffd9f4.css.map",
+    "main.fe49cad7.js.map": "/react-portfolio-Josh/static/js/main.fe49cad7.js.map",
+    "787.cf482a7c.chunk.js.map": "/react-portfolio-Josh/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.020d6d74.css",
-    "static/js/main.a16ebb65.js"
+    "static/css/main.f7ffd9f4.css",
+    "static/js/main.fe49cad7.js"
   ]
 }
