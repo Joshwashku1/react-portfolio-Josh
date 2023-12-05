@@ -27,16 +27,17 @@ const About = () => {
                 </h1>
                 <p>
                     I'm very ambitious full-stack developer looking for a role in
-                    established IT company with the opportunity to work with the latest
+                    with an IT company and the opportunity to work with the latest
                     technologies on challenging and diverse projects.
                 </p>
                 <p>
                     I'm confident, naturally curious, and perpetually working on
-                    improving my skills.
+                    improving my skills. I carry a degree with a minor in CSci, as well as
+                    Full-Stack Web Developing certificate - all from the University of Minnesota.
                 </p>
                 <p>
-                    If I need to define myself in one sentence that would be a family
-                    person.  
+                    My background comes from rural MN, where I learned my work ethic from family
+                    and a local vineyard.  
                 </p>
             </div>
 
