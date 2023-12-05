@@ -38,7 +38,7 @@ const Home = () => {
                 idx={20}/>
                 </h1>
                 <h2>Full-stack developer / JavaScript </h2>
-                <Link to="/contact" className='flat-button'>CONTACT ME</Link>
+                <Link to="#/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             {/* <Logo /> */}
             <GitHubContainer/>
